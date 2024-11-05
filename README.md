@@ -1,2 +1,2 @@
-# DS_Classification_Model
-Supervised Classification Model for Offer Acceptance in Marketing Campaigns
+# PREDICTIVE CLASSIFICATION MODEL IN R
+OFFER ACCEPTANCE IN MARKETING CAMPAIGNS
